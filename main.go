@@ -7,5 +7,6 @@ func sayBye(name string) {
 }
 
 func main() {
+  fmt.Println("You are AWESOME!!!")
 	sayBye("Salary")
 }
