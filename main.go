@@ -8,4 +8,5 @@ func greeting(name string) {
 
 func main() {
 	greeting("Iskander")
+	fmt.Println("You are AWESOME!!!")
 }
